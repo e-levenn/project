@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027618190828",
+    "project_id": "boma-422ba",
+    "storage_bucket": "boma-422ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027618190828:android:357c00a7bd4fe4b830fcc9",
+        "android_client_info": {
+          "package_name": "com.pk.boma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5pUisPhobEPBu7rVUB5DJYHxc6nuGFdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

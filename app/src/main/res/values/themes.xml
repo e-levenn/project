@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MySplashscreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/brown</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/home1</item>
+        <item name="postSplashScreenTheme">@style/Theme.MySplashscreen</item>
+    </style>
+    <style name="Theme.Boma" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
